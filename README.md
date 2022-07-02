@@ -1,4 +1,4 @@
-# Maven_analytics_Superbowl_commercial_Dashboard_challenge
+# Maven_Analytics_Superbowl_Commercial_Dashboard_Challenge
 I have been seeing a ton of Maven Analytics dashbords all over linkedin so I decided to test my creativity with one of their datasets.
 I don’t think this is an active challenge, but I had a lot of fun creating this. It is my 1st attempt, and I used the Superbowl Commercial dataset. 
 This is a single page interactive dashboard with moving gifs and text.
