@@ -8,5 +8,4 @@ Useful links:
 2)	Hosted gif of dashboard - https://imgur.com/qM2m843
 3)	Data set - https://www.mavenanalytics.io/data-playground
 
-![finalbabysuperbowl](https://user-images.githubusercontent.com/40834093/177015069-2673666c-8f04-45c1-a865-8cc49525213f.gif)
-
+https://user-images.githubusercontent.com/40834093/177017338-137c0c9c-7699-4f3e-acdb-e7428df652e4.mp4
