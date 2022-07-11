@@ -5,7 +5,6 @@ This is a single page interactive dashboard with moving gifs and text.
 Useful links:
 
 1)	Design Inspiration - https://imgur.com/hbYbgKz
-2)	Hosted gif of dashboard - https://imgur.com/qM2m843
-3)	Data set - https://www.mavenanalytics.io/data-playground
+2)	Data set - https://www.mavenanalytics.io/data-playground
 
 https://user-images.githubusercontent.com/40834093/177017338-137c0c9c-7699-4f3e-acdb-e7428df652e4.mp4
